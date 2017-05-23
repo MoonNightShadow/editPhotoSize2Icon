@@ -1,0 +1,5 @@
+move photo to iconChange beside the iconChange.py
+and use command "python iconChange.py"
+you can choose the size more than one
+input "F" to end choose
+photo will save with "name_size.png"
